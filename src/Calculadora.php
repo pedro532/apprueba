@@ -10,7 +10,7 @@ class calculadora
         $this->num1 = $a1;
         $this->num2 = $a2;
     }
-    public function divid()
+    public function div()
     {
         return $this->num1 / $this->num2;
     }
